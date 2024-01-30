@@ -30,6 +30,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "Events",
+      "url": "events"
     }
   ],
   "anchors": [
@@ -80,7 +84,9 @@
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/delete",
+        "events/broadcast-event-to-all",
+        "events/bulk-trigger-event"
       ]
     }
   ],
